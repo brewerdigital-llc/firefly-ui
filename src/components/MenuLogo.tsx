@@ -17,7 +17,7 @@
 import { Box } from '@mui/material';
 import { styled } from '@mui/material';
 import React from 'react';
-import { ReactComponent as LogoSVG } from '../svg/HyperledgerFireFly-Logo-White.svg';
+import { ReactComponent as LogoSVG } from '../svg/thc-bit.svg';
 
 export const MenuLogo: React.FC = () => {
   const StyledLogo = styled(LogoSVG)({
