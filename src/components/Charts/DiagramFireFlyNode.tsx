@@ -3,7 +3,8 @@ import { memo } from 'react';
 import { Handle, Position } from 'react-flow-renderer';
 import { IStatus } from '../../interfaces';
 import { APP_PREFIX, HANDLE_PREFIX, PLUGIN_PREFIX } from './MyNodeDiagram';
-import { ReactComponent as LogoSVG } from '../..//svg/ff-logo-symbol-white.svg';
+// import { ReactComponent as LogoSVG } from '../..//svg/ff-logo-symbol-white.svg';
+import { ReactComponent as LogoSVG } from '../..//svg/thc-bit.svg';
 import i18next from 'i18next';
 
 export const FFLogo: React.FC = () => {
